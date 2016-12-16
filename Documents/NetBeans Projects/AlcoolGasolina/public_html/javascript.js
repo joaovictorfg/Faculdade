@@ -1,4 +1,5 @@
 function calcular() {
+    
     let n1 = parseFloat(document.querySelector("#ValorGasolina").value);
     let n2 = parseFloat(document.getElementById("ValorAlcool").value);
     let result = n2/n1;
